@@ -121,6 +121,14 @@ nav {
 }
 .nav-linkedin:hover { background: #e8f3fb !important; color: #005e94 !important; }
 
+.nav-instagram {
+  display: flex;
+  align-items: center;
+  padding: 6px 10px !important;
+  color: #c13584 !important;
+}
+.nav-instagram:hover { background: #fdf0f6 !important; color: #8a1a5e !important; }
+
 /* Hamburger toggle – hidden on desktop */
 .nav-toggle {
   display: none;
